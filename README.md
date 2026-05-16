@@ -1,10 +1,26 @@
-# Curtain Tunes
-Curtain Tunes is a lightweight live-event intro music utility designed for wrestling, MMA, comedy shows, theater productions, school events, and any live production where performers or guests are announced. Features include instant music playback, playlist save/load, customizable fade-out stopping, and a built-in ring bell.
 # Curtain Tunes v0.1
 
 Curtain Tunes is a lightweight live-event intro music utility designed for wrestling, MMA, comedy shows, theater productions, school events, podcasts, and any live production where performers or guests are announced.
 
 The software allows operators to quickly select performers, play intro music instantly, fade music out smoothly, save/load playlists, and manage live entrances during events.
+
+---
+
+## We've All Been There...
+
+The local indie wrestling show where:
+
+* Somebody’s entrance music starts playing from a YouTube browser tab
+* Windows suddenly makes the USB disconnect sound through the arena speakers
+* The promoter is yelling, “PLAY HIS MUSIC!”
+* The wrong MP3 starts playing
+* The announcer stalls awkwardly while someone digs through folders
+* A wrestler walks out to complete silence
+* Somebody accidentally closes the music player mid-show
+
+Curtain Tunes was built to solve exactly those problems.
+
+Simple. Fast. Focused. No nonsense.
 
 ---
 
