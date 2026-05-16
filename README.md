@@ -31,6 +31,8 @@ Curtain Tunes is designed to be extremely simple, greenhorn-proof, and easy to i
 
 Curtain Tunes contains no ads. It's completely free. It's also been scanned by 30 different virus scanners including Microsoft, Acronis, Symantec, Kaspersky, and Avast.
 
+---
+
 ## Features
 
 * Instant intro music playback
