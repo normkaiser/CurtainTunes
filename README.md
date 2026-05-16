@@ -11,18 +11,25 @@ The software allows operators to quickly select performers, play intro music ins
 The local indie wrestling show where:
 
 * Somebody’s entrance music starts playing from a YouTube browser tab
-* Windows suddenly makes the USB disconnect sound through the arena speakers
+* Some Viagra commercial starts playing instead of the music
+* The greenhorn trainee working sound fumbles through Spotify or whatever media player
+* A performer's intro music cuts out hard instead of fading professionally
+* Windows suddenly makes the USB disconnect sound or the low battery sound through the arena speakers
 * The promoter is yelling, “PLAY HIS MUSIC!”
 * The wrong MP3 starts playing
 * The announcer stalls awkwardly while someone digs through folders
-* A wrestler walks out to complete silence
+* A wrestler walks out to complete silence...or the wrong music
 * Somebody accidentally closes the music player mid-show
 
-Curtain Tunes was built to solve exactly those problems.
+I struggled with all of this as a wrestling promoter, so I wrote Curtain Tunes.
 
-Simple. Fast. Focused. No nonsense.
+Curtain Tunes is designed to be extremely simple, greenhorn-proof, and easy to install. All you have to do to install is drop it on the desktop or whatever folder you want and double click.
 
 ---
+
+## No Ads, Spyware, Tracking or Any Other Junk
+
+Curtain Tunes contains no ads. It's completely free. It's also been scanned by 30 different virus scanners including Microsoft, Acronis, Symantec, Kaspersky, and Avast.
 
 ## Features
 
