@@ -93,16 +93,18 @@ Curtain Tunes stores playlists as simple text files for easy backup and portabil
 
 ## Virus Scan / File Verification
 
-VirusTotal scan:
-(Add your VirusTotal link here)
+Kaspersky scan result:
+https://opentip.kaspersky.com/03f560585bdfad7023f74672a857249f0ae32ce4c73ad7634104e5531148bb63/results?tab=upload
 
 SHA256:
-(Add your SHA256 hash here)
+03F560585BDFAD7023F74672A857249F0AE32CE4C73AD7634104E5531148BB63
 
 ---
 
 ## License
 
-Curtain Tunes is proprietary closed-source software provided free of charge.
+Curtain Tunes is proprietary closed-source software provided free of charge. Free distribution is permitted.
+
+Curtain Tunes is available "AS IS" and has no warranty whatsoever.
 
 © 2026 Norm Kaiser. All Rights Reserved.
