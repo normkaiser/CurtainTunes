@@ -2,7 +2,7 @@
 
 Curtain Tunes is a lightweight live-event intro music utility designed for wrestling, MMA, comedy shows, theater productions, school events, podcasts, and any live production where performers or guests are announced.
 
-The software allows operators to quickly select performers, play intro music instantly, fade music out smoothly, save/load playlists, and manage live entrances during events.
+The software allows operators to quickly select performers, play intro music instantly, fade music out smoothly, save/load playlists, and manage live entrances during events. It also has an integrated ring bell.
 
 ---
 
