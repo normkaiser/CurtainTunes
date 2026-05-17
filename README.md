@@ -23,7 +23,7 @@ The local indie wrestling show where:
 
 I struggled with all of this as a wrestling promoter, so I wrote Curtain Tunes...and I figured I'd share it with the world.
 
-Curtain Tunes is designed to be extremely simple, greenhorn-proof, and easy to install. All you have to do to install is drop it on the desktop or whatever folder you want and double click.
+Curtain Tunes is designed to be extremely simple, greenhorn-proof, and easy to install. All you have to do to install is unzip it and drop it on the desktop or whatever folder you want and double click.
 
 ---
 
