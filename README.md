@@ -21,7 +21,7 @@ The local indie wrestling show where:
 * A wrestler walks out to complete silence...or the wrong music
 * Somebody accidentally closes the music player mid-show
 
-I struggled with all of this as a wrestling promoter, so I wrote Curtain Tunes.
+I struggled with all of this as a wrestling promoter, so I wrote Curtain Tunes...and I figured I'd share it with the world.
 
 Curtain Tunes is designed to be extremely simple, greenhorn-proof, and easy to install. All you have to do to install is drop it on the desktop or whatever folder you want and double click.
 
