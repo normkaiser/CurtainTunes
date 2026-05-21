@@ -36,7 +36,7 @@ No installer. No accounts. No subscriptions. No nonsense.
 
 ---
 
-![Curtain Tunes Screenshot](CurtainTunesScreenshot.jpg)
+![Curtain Tunes Screenshot]
 
 ---
 
