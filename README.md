@@ -1,12 +1,16 @@
 # Curtain Tunes v0.1
 
-Curtain Tunes is a lightweight live-event intro music utility designed for wrestling, MMA, comedy shows, theater productions, school events, podcasts, and any live production where performers or guests are announced.
+Curtain Tunes is a lightweight live-event intro music and video utility designed for wrestling, MMA, comedy shows, theater productions, school events, podcasts, churches, talent shows, and any live production where performers or guests are announced.
 
-The software allows operators to quickly select performers, play intro music instantly, fade music out smoothly, save/load playlists, and manage live entrances during events. It also has an integrated ring bell.
+The software allows operators to quickly select performers, instantly play intro music or video, smoothly fade media out, save/load playlists, manage live entrances during events, and automatically handle fullscreen audience-screen playback on secondary monitors.
+
+Curtain Tunes was built specifically for chaotic live-event environments where simplicity, speed, and reliability matter more than flashy features.
+
+It also includes an integrated ring bell, automatic monitor detection, audience-screen video playback, temporary status messaging, missing-file detection, and live playlist management tools.
 
 ---
 
-## We've All Been There...
+# We've All Been There...
 
 The local indie wrestling show where:
 
@@ -20,39 +24,101 @@ The local indie wrestling show where:
 * The announcer stalls awkwardly while someone digs through folders
 * A wrestler walks out to complete silence...or the wrong music
 * Somebody accidentally closes the music player mid-show
+* The projector gets unplugged and the entire setup crashes
+* The fullscreen video ends up on the wrong monitor
+* Somebody loses focus on the audience display window during the show
 
 I struggled with all of this as a wrestling promoter, so I wrote Curtain Tunes...and I figured I'd share it with the world.
 
-Curtain Tunes is designed to be extremely simple, greenhorn-proof, and easy to install. All you have to do to install is unzip it and drop it on the desktop or whatever folder you want and double click.
+Curtain Tunes is designed to be extremely simple, greenhorn-proof, and easy to install. All you have to do is unzip it, drop it anywhere you want, and double-click it.
+
+No installer. No accounts. No subscriptions. No nonsense.
 
 ---
 
 ![Curtain Tunes Screenshot](CurtainTunesScreenshot.jpg)
 
+---
 
+# No Ads, Spyware, Tracking or Any Other Junk
 
+Curtain Tunes contains:
 
-## No Ads, Spyware, Tracking or Any Other Junk
+* No ads
+* No telemetry
+* No subscriptions
+* No spyware
+* No accounts
+* No cloud dependency
+* No activation nonsense
 
-Curtain Tunes contains no ads. It's completely free. It's also been scanned by 30 different virus scanners including Microsoft, Acronis, Symantec, Kaspersky, and Avast.
+It's completely free.
+
+It has also been scanned by 30 different virus scanners including Microsoft, Acronis, Symantec, Kaspersky, and Avast.
 
 ---
 
-## Features
+# Features
+
+## Audio + Video Playback
 
 * Instant intro music playback
-* Performer-based playlist system
-* Save and load playlists
-* Adjustable fade-out stopping
+* Automatic audio/video detection
+* Dedicated fullscreen audience-screen video playback
+* VLC-powered video playback engine
+* Smooth fade-out stopping
+* Automatic volume restoration after fades
 * Built-in ring bell sound effect
-* Missing-file detection when loading playlists
-* Large, operator-friendly interface
-* Portable single-file executable
-* No installation required
 
 ---
 
-## Typical Uses
+## Audience Screen System
+
+* Dedicated audience-display window
+* Automatic fullscreen playback on monitor #2
+* Automatic monitor detection and reconfiguration
+* Windowed fallback mode for single-monitor systems
+* Dedicated taskbar icon for quick recovery if focus is lost
+* Black-background presentation mode
+* Automatic monitor reconnect handling
+* Automatic HDMI/projector recovery support
+
+---
+
+## Playlist Management
+
+* Performer-based playlist system
+* Save and load playlists
+* Missing-file detection when loading playlists
+* Move performers up/down during live events
+* Delete performers with confirmation dialog
+* Automatic playlist compaction after deletion
+* Temporary status messages for live operator feedback
+
+---
+
+## Live Event Workflow Features
+
+* Large operator-friendly interface
+* Fast performer selection
+* Designed specifically for high-pressure live environments
+* Greenhorn-friendly operation
+* Simple portable workflow
+* Minimal setup time
+
+---
+
+## Portable Design
+
+* Portable single-folder executable
+* No installation required
+* Runs directly from desktop, USB drive, or folder
+* No registry dependency
+* No external database required
+
+---
+
+# Typical Uses
 
 * Professional Wrestling
 * MMA Events
@@ -61,50 +127,126 @@ Curtain Tunes contains no ads. It's completely free. It's also been scanned by 3
 * Theater Productions
 * Talent Shows
 * School Events
+* Church Productions
 * Guest Introductions
+* Award Ceremonies
 * Live Productions
 
 ---
 
-## Usage
+# Usage
 
-1. Double-click a performer slot.
-2. Enter the performer name.
-3. Select a music file.
-4. Click OK.
-5. Select the performer and click Play.
+## Adding a Performer
+
+1. Double-click a performer slot
+2. Enter the performer name
+3. Select an audio or video file
+4. Click OK
+
+---
+
+## Playing Media
+
+1. Select a performer
+2. Click Play
+
+Curtain Tunes automatically detects whether the media is audio or video.
+
+* Audio files play directly through the sound system
+* Video files automatically open in the Audience Screen window
+
+---
+
+## Stopping Media
+
+Click Stop to smoothly fade out playback.
+
+Fade speed is adjustable using the Fade Speed control.
+
+---
+
+## Rearranging Performers
 
 Use the Move Up and Move Down buttons to rearrange performers during live events.
 
 ---
 
-## Playlist Files
+## Deleting Performers
 
-Curtain Tunes stores playlists as simple text files for easy backup and portability.
+Use the Delete button to remove performers from the playlist.
+
+Curtain Tunes automatically:
+
+* Asks for confirmation
+* Shifts remaining entries upward
+* Clears the final slot
 
 ---
 
-## System Requirements
+# Playlist Files
+
+Curtain Tunes stores playlists as simple text files for easy backup and portability.
+
+Each line contains:
+
+```text
+Performer Name~Media File Path
+```
+
+Example:
+
+```text
+The Destroyer~C:\Themes\destroyer.mp3
+```
+
+---
+
+# Recommended Setup
+
+For best results during live events:
+
+* Use a dedicated laptop whenever possible
+* Use a second monitor or projector for audience playback
+* Disable Windows notifications
+* Disable screen savers and sleep mode
+* Use wired audio connections when possible
+* Test all media files before the audience arrives
+* Keep a spare HDMI cable available
+* Avoid unplugging display devices during playback
+
+---
+
+# System Requirements
 
 * Windows 10 or Windows 11
 * Audio output device
 
+Recommended for video playback:
+
+* Second monitor, projector, or HDMI display
+
 ---
 
-## Virus Scan / File Verification
+# Virus Scan / File Verification
 
 Kaspersky scan result:
+
 https://opentip.kaspersky.com/03f560585bdfad7023f74672a857249f0ae32ce4c73ad7634104e5531148bb63/results?tab=upload
 
 SHA256:
+
+```text
 03F560585BDFAD7023F74672A857249F0AE32CE4C73AD7634104E5531148BB63
+```
 
 ---
 
-## License
+# License
 
-Curtain Tunes is proprietary closed-source software provided free of charge. Free distribution is permitted.
+Curtain Tunes is proprietary closed-source software provided free of charge.
 
-Curtain Tunes is available "AS IS" and has no warranty whatsoever.
+Free redistribution is permitted.
+
+Curtain Tunes is provided "AS IS" WITHOUT WARRANTY OF ANY KIND.
 
 © 2026 Norm Kaiser. All Rights Reserved.
