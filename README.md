@@ -231,12 +231,12 @@ Recommended for video playback:
 
 Kaspersky scan result:
 
-https://opentip.kaspersky.com/03f560585bdfad7023f74672a857249f0ae32ce4c73ad7634104e5531148bb63/results?tab=upload
+https://opentip.kaspersky.com/d42770373be0fb3399abffe136f50af1fea21f1ea3195dae7b71c17fa0fb48da/results?tab=upload
 
 SHA256:
 
 ```text
-03F560585BDFAD7023F74672A857249F0AE32CE4C73AD7634104E5531148BB63
+D42770373BE0FB3399ABFFE136F50AF1FEA21F1EA3195DAE7B71C17FA0FB48DA
 ```
 
 ---
