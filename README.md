@@ -110,10 +110,11 @@ It has also been scanned by 30 different virus scanners including Microsoft, Acr
 
 ## Portable Design
 
-* Portable single-folder executable
+* Portable single-file executable. You need just one file
 * No installation required
 * Runs directly from desktop, USB drive, or folder
-* No registry dependency
+* No registry dependencies or changes
+* No cloud nonsense
 * No external database required
 
 ---
